@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  辽北精神分析学派
 date:   2023-11-07 22:39:35 +0100
 categories: jekyll update
 ---
