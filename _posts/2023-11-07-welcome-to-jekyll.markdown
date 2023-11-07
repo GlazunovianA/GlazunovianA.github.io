@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ÄãºÃ"
+title:  "what is happening here"
 date:   2023-11-07 22:39:35 +0100
 categories: jekyll update
 ---
